@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scratchvoid
 - 👀 I’m interested in video postproduction, digital animation, motion graphics, web design & Multimedia.
-- 🌱 I’m currently learning digital marketing, on-line advertising & social media.
-- 💞️ I’m looking to collaborate on video edition, web design and multimedia proyects. Also, I would like to learn to write code.
+- 🌱 I’m currently learning , 3d animation, videogames process and video-mapping.
+- 💞️ I’m looking to collaborate on video edition, animation and motion graphics. Also, I would like to learn to write code.
 - 📫 To reach me, please send a message to scratchvoid@gmail.com.
 
 <!---
